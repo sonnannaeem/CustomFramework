@@ -30,5 +30,4 @@ public struct SDK {
         guard checkAPIKey() else { return }
         print("Doing some work...")
     }
-    
 }
